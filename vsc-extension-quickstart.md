@@ -1,3 +1,11 @@
+<!--
+ * @Desc: 
+ * @FilePath: /kefu-to-localhost/vsc-extension-quickstart.md
+ * @Author: liujianwei1
+ * @Date: 2021-04-28 10:39:53
+ * @LastEditors: liujianwei1
+ * @Reference Desc: 
+-->
 # Welcome to your VS Code Extension
 
 ## What's in the folder
@@ -37,3 +45,8 @@
 
  * [Publish your extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) on the VSCode extension marketplace.
  * Automate builds by setting up [Continuous Integration](https://code.visualstudio.com/api/working-with-extensions/continuous-integration).
+
+## 参考文档
+- http://blog.haoji.me/vscode-plugin-overview.html
+- https://github.com/any86/any-rule
+- https://zhuanlan.zhihu.com/p/71693080?from_voters_page=true
