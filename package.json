@@ -4,6 +4,7 @@
   "description": "kefu域名替换成localhost",
   "version": "0.0.1",
   "repository": "https://github.com/rupid/kefu-to-localhost.git",
+  "publisher": "liujianwei1213",
   "engines": {
     "vscode": "^1.55.0"
   },
