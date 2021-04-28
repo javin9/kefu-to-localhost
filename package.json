@@ -3,6 +3,7 @@
   "displayName": "kefu-to-localhost",
   "description": "kefu域名替换成localhost",
   "version": "0.0.1",
+  "repository": "https://github.com/rupid/kefu-to-localhost.git",
   "engines": {
     "vscode": "^1.55.0"
   },
