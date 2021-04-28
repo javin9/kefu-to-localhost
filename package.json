@@ -6,7 +6,7 @@
   "repository": "https://github.com/rupid/kefu-to-localhost.git",
   "publisher": "liujianwei1213",
   "engines": {
-    "vscode": "^1.55.0"
+    "vscode": "^1.5.0"
   },
   "categories": [
     "Other"
