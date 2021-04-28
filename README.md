@@ -1,6 +1,7 @@
+
 # kefu-to-localhost README
 
-This is the README for your extension "kefu-to-localhost". After writing up a brief description, we recommend including the following sections.
+替换指定域名为localhost
 
 ## Features
 
