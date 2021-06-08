@@ -29,7 +29,7 @@ function activate (context) {
   let disposable = vscode.commands.registerCommand('extension.helloWorld', function (args) {
     // The code you place here will be executed every time your command is executed
     const data = fs.readFileSync(args.path, { encoding: 'utf8' })
-    const content = data.replace(/(kefu.xesv5.com)|(\.kefu.xesv5.com)/ig, 'localhost')
+    const content = data.replace(/(kefu.xesv5.com)|(\.kefu.xesv5.com)|(\.xesv5.com)/ig, 'localhost')
     fs.writeFileSync(args.path, content)
     // Display a message box to the user
     vscode.window.showInformationMessage('Hello World from extension!')

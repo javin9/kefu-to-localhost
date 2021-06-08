@@ -2,11 +2,11 @@
   "name": "kefu-to-localhost",
   "displayName": "kefu-to-localhost",
   "description": "kefu域名替换成localhost",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/rupid/kefu-to-localhost.git",
   "publisher": "liujianwei1213",
   "engines": {
-    "vscode": "^1.5.1"
+    "vscode": "^1.55.2"
   },
   "categories": [
     "Other"
